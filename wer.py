@@ -11,8 +11,6 @@ import numpy as np
 	Github: github.com/dutraleonardo
 	Linkedin: www.linkedin.com/in/dutraleonardo/
 
-	This is my approach to solve the Zoom Media assessment.
-
 	Requirements:
 	Numpy
 
